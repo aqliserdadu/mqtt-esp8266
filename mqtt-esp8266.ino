@@ -1,7 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-// Update these with values suitable for your network.
 
 const char *ssid = "Hunter";
 const char *password = "qwerty272";
