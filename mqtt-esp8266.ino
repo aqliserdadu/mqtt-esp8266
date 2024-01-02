@@ -5,7 +5,7 @@
 const char *ssid = "Hunter";
 const char *password = "qwerty272";
 const char *idboard = "S34R7"; 
-const char *mqtt_server = "mqtt-dashboard.com";
+const char *mqtt_server = "mqtt.hardyindustries.com";
 const char *clientId = "H4rDy1Ndustri35";
 const char *pubTopic = "H4rdy/S34R7_sub";
 const char *subTopic = "H4rdy/S34R7_pub";
